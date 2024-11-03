@@ -6,6 +6,7 @@
 - LinkedIn: https://www.linkedin.com/in/amandeep-jakhar-019ba8244/
 - Insta: https://www.instagram.com/_a.manndeep/
 - Twitter:https://twitter.com/AmandeepJakhar5
+- Facebook: https://www.facebook.com/profile.php?id=100059949044249
 - Gmail: amandeepjakhar41@gmail.com 
 
 <!---
