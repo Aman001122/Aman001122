@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Aman001122
 - 👀 I’m interested in development using python
-- 🌱 I’m currently learning node.js and django
 - 💞️ I’m looking to collaborate on open source contribution
 - 📫 How to reach me
 - LinkedIn: https://www.linkedin.com/in/amandeep-jakhar-019ba8244/
