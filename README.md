@@ -15,12 +15,8 @@ Interested in cybersecurity, DevSecOps, software development, and building pract
 
 Python • C • SQL • Linux • Git • APIs
 
-## Connect
 
-## Connect
-
-## Connect
-
+Connect:
 [LinkedIn](https://linkedin.com/in/amandeep-jakhar) •
 [GitHub](https://github.com/Aman001122) •
 [Twitter/X](https://twitter.com/AmandeepJakhar5) •
