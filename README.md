@@ -19,7 +19,6 @@ Python • C • SQL • Linux • Git • APIs
 Connect:
 [LinkedIn](https://linkedin.com/in/amandeep-jakhar) •
 [GitHub](https://github.com/Aman001122) •
-[Twitter/X](https://twitter.com/AmandeepJakhar5) •
 [Instagram](https://instagram.com/_a.manndeep) •
 [Connect via mail](mailto:amandeepjakhar41@gmail.com)
 
